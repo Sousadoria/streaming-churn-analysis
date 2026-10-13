@@ -1,0 +1,2001 @@
+﻿customer_id,platform,months_subscribed,price_satisfaction,content_satisfaction,ad_tolerance,plan_type,has_ads,ad_satisfaction,ad_free_upgrade_interest,subscription_status,cancellation_reason,retention_reason
+C0001,Disney+,47,1,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0002,HBO Max,12,3,1,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0003,Netflix,16,5,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0004,Disney+,24,1,2,2,Básico com anúncios,True,5.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0005,Disney+,19,4,1,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0006,HBO Max,8,2,2,1,Básico com anúncios,True,2.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0007,Netflix,31,2,1,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0008,Netflix,21,2,1,5,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0009,Disney+,17,4,3,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0010,Prime Video,23,1,4,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0011,Disney+,37,4,2,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0012,Disney+,16,2,2,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0013,Disney+,6,5,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0014,Disney+,8,3,3,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0015,HBO Max,25,4,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0016,Netflix,18,4,5,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C0017,HBO Max,25,1,5,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0018,HBO Max,12,1,5,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0019,HBO Max,15,4,1,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0020,Disney+,26,2,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0021,Prime Video,41,3,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0022,Netflix,45,1,1,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0023,Prime Video,26,2,2,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0024,HBO Max,47,5,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0025,HBO Max,32,1,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0026,Prime Video,10,2,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0027,Prime Video,16,2,1,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0028,Prime Video,7,3,3,1,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0029,HBO Max,17,3,2,5,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C0030,HBO Max,23,5,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0031,Netflix,26,2,5,2,Básico com anúncios,True,2.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0032,Netflix,21,2,3,3,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0033,HBO Max,22,3,2,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0034,Prime Video,7,1,1,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0035,Prime Video,14,1,4,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0036,Netflix,15,4,3,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0037,HBO Max,7,3,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0038,Netflix,9,4,4,1,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C0039,Netflix,48,3,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0040,Disney+,8,5,5,3,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0041,Disney+,23,2,4,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0042,Disney+,29,5,2,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0043,Prime Video,18,3,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0044,HBO Max,31,2,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0045,HBO Max,30,1,3,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0046,HBO Max,39,1,3,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0047,HBO Max,35,4,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0048,Disney+,18,3,4,2,Básico com anúncios,True,4.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0049,Prime Video,42,3,5,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0050,Prime Video,39,1,3,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0051,Disney+,17,5,1,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0052,Prime Video,14,2,5,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0053,Disney+,31,5,1,4,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C0054,HBO Max,24,5,4,1,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0055,Disney+,35,1,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0056,HBO Max,44,1,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0057,HBO Max,45,1,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0058,Netflix,34,4,4,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0059,Disney+,3,5,4,3,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0060,Netflix,37,3,5,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0061,Disney+,43,2,4,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C0062,Disney+,40,4,5,4,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0063,Netflix,26,3,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0064,Netflix,23,5,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0065,Disney+,44,1,4,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0066,Prime Video,39,5,4,1,Básico com anúncios,True,1.0,Sim,Cancelado,Preço alto,Não se aplica
+C0067,HBO Max,15,2,5,2,Básico com anúncios,True,3.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0068,Netflix,4,4,5,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0069,HBO Max,29,4,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0070,Prime Video,22,2,3,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0071,Prime Video,25,3,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0072,Prime Video,13,3,4,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0073,Netflix,18,4,3,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0074,Prime Video,33,4,5,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0075,Netflix,16,1,2,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0076,Prime Video,45,3,5,1,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C0077,HBO Max,42,2,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0078,HBO Max,44,3,3,3,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0079,Disney+,2,1,4,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0080,HBO Max,35,4,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0081,Disney+,42,4,4,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0082,HBO Max,34,1,1,5,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0083,Netflix,30,2,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0084,HBO Max,13,4,2,5,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0085,Disney+,13,5,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0086,Disney+,18,4,5,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0087,Prime Video,32,5,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0088,Netflix,32,1,5,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0089,HBO Max,35,1,3,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0090,Prime Video,39,4,2,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0091,HBO Max,46,3,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0092,HBO Max,29,5,3,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0093,Prime Video,29,2,5,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0094,Prime Video,44,4,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0095,Prime Video,16,2,4,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C0096,Prime Video,44,4,4,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0097,Prime Video,47,3,4,2,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0098,HBO Max,10,3,1,3,Básico com anúncios,True,1.0,Sim,Cancelado,Preço alto,Não se aplica
+C0099,Prime Video,30,3,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0100,Netflix,25,3,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0101,Disney+,39,1,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0102,Prime Video,20,1,1,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0103,Prime Video,5,5,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0104,HBO Max,1,2,1,1,Básico com anúncios,True,1.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0105,Prime Video,30,4,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0106,Prime Video,3,4,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0107,Prime Video,45,1,2,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0108,HBO Max,14,4,5,5,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0109,Prime Video,30,1,4,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0110,Disney+,4,5,3,2,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0111,HBO Max,18,2,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0112,Disney+,37,5,2,1,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0113,HBO Max,25,3,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0114,Prime Video,48,3,5,1,Básico com anúncios,True,5.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0115,Disney+,1,3,4,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C0116,HBO Max,46,5,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0117,Netflix,15,4,5,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Preço acessível
+C0118,Prime Video,9,2,2,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0119,HBO Max,15,3,1,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0120,Netflix,24,3,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0121,HBO Max,4,3,4,5,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0122,Netflix,12,2,3,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0123,Prime Video,37,3,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0124,Disney+,37,2,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0125,Netflix,43,3,1,5,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0126,HBO Max,6,5,5,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0127,Prime Video,39,5,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0128,Netflix,46,2,3,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0129,HBO Max,24,5,5,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0130,HBO Max,11,2,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0131,HBO Max,13,5,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0132,Netflix,34,5,4,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0133,Netflix,25,2,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0134,Netflix,7,4,2,3,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0135,Disney+,4,5,2,1,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0136,Netflix,8,3,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0137,Netflix,20,4,1,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0138,Netflix,29,2,5,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0139,Disney+,45,4,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0140,Netflix,46,1,1,5,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0141,HBO Max,10,1,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0142,Netflix,43,5,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0143,HBO Max,34,5,4,4,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0144,HBO Max,26,3,2,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0145,HBO Max,41,4,2,3,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0146,Disney+,3,1,4,2,Básico com anúncios,True,1.0,Sim,Cancelado,Preço alto,Não se aplica
+C0147,Disney+,6,5,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0148,Disney+,5,4,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0149,Netflix,5,5,3,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0150,HBO Max,47,5,4,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0151,Disney+,23,1,1,3,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0152,Disney+,9,1,4,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0153,Netflix,35,5,5,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0154,Disney+,20,2,2,2,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0155,Netflix,42,5,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0156,Prime Video,35,5,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0157,Disney+,18,3,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0158,Prime Video,17,3,4,3,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0159,Netflix,24,3,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0160,HBO Max,3,2,2,2,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0161,Disney+,32,2,3,5,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0162,Netflix,35,5,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0163,HBO Max,38,3,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0164,HBO Max,13,2,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0165,Prime Video,47,1,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0166,Netflix,25,5,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0167,HBO Max,9,4,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0168,Disney+,4,5,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0169,Disney+,14,4,2,4,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0170,Prime Video,37,3,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0171,HBO Max,34,4,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0172,Netflix,11,3,2,1,Básico com anúncios,True,3.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0173,Disney+,41,1,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0174,HBO Max,3,4,2,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0175,HBO Max,28,5,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0176,Prime Video,29,3,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0177,Disney+,9,5,4,4,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C0178,Disney+,3,2,1,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0179,Netflix,25,3,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0180,Disney+,34,4,2,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0181,Netflix,12,3,4,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0182,Disney+,42,5,2,4,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C0183,Prime Video,9,1,1,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0184,Disney+,15,3,5,2,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0185,Netflix,40,4,1,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Preço acessível
+C0186,Netflix,25,2,2,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0187,Prime Video,5,1,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0188,Disney+,11,2,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0189,Disney+,34,3,1,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0190,Prime Video,24,5,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0191,Disney+,15,5,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0192,Disney+,38,4,3,1,Básico com anúncios,True,5.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0193,Netflix,8,5,3,3,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C0194,Disney+,5,1,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0195,Disney+,48,5,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0196,Prime Video,26,4,2,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0197,Prime Video,18,3,1,1,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0198,HBO Max,6,3,2,2,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0199,Netflix,37,5,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0200,Disney+,48,2,1,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C0201,Disney+,13,3,4,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0202,HBO Max,28,5,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0203,Disney+,5,4,1,3,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0204,Netflix,13,5,2,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0205,HBO Max,17,3,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0206,Netflix,40,4,2,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0207,HBO Max,45,5,4,2,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0208,HBO Max,32,1,4,2,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C0209,Prime Video,29,4,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0210,Netflix,3,1,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0211,Disney+,40,2,3,2,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0212,Disney+,34,4,4,3,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C0213,Netflix,40,1,4,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C0214,Disney+,27,3,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0215,Disney+,13,3,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0216,Netflix,45,2,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0217,HBO Max,33,4,2,1,Básico com anúncios,True,5.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0218,Netflix,6,4,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0219,HBO Max,24,4,4,2,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0220,Disney+,19,2,5,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0221,Disney+,16,4,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0222,Disney+,40,3,4,4,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0223,Prime Video,28,1,5,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0224,HBO Max,33,3,5,5,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0225,Prime Video,48,3,2,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0226,Prime Video,41,1,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0227,Netflix,13,3,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0228,Prime Video,43,2,2,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0229,Netflix,45,1,2,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0230,Netflix,25,3,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0231,Prime Video,42,5,4,4,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0232,HBO Max,36,3,5,1,Básico com anúncios,True,3.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0233,HBO Max,27,2,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0234,HBO Max,38,4,5,2,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0235,HBO Max,7,3,4,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0236,HBO Max,5,4,1,1,Básico com anúncios,True,4.0,Não,Cancelado,Preço alto,Não se aplica
+C0237,Prime Video,43,5,1,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0238,Prime Video,45,3,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0239,Disney+,31,1,4,3,Básico com anúncios,True,4.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0240,HBO Max,23,4,4,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0241,Prime Video,42,5,2,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0242,Disney+,10,1,3,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0243,HBO Max,32,1,5,5,Básico com anúncios,True,1.0,Sim,Cancelado,Preço alto,Não se aplica
+C0244,Netflix,43,1,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0245,Disney+,30,1,3,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0246,Prime Video,39,3,5,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0247,Netflix,31,3,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0248,Netflix,18,3,5,4,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0249,Netflix,36,5,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0250,Disney+,2,5,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0251,Prime Video,14,5,1,2,Básico com anúncios,True,3.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0252,Netflix,13,2,5,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0253,HBO Max,29,5,5,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0254,Netflix,12,3,4,2,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0255,Netflix,39,3,1,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0256,Disney+,2,2,1,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0257,Disney+,32,2,4,4,Básico com anúncios,True,2.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0258,Prime Video,13,5,2,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0259,HBO Max,46,4,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0260,Disney+,27,2,5,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0261,Netflix,41,1,3,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0262,Prime Video,17,3,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0263,Netflix,40,1,3,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0264,Netflix,31,3,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0265,Disney+,34,3,1,1,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0266,Prime Video,24,2,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0267,HBO Max,45,2,3,2,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0268,HBO Max,35,1,1,4,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0269,Disney+,48,3,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0270,Disney+,6,1,3,1,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0271,Prime Video,19,4,5,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0272,HBO Max,30,1,3,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0273,HBO Max,7,5,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0274,HBO Max,10,1,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0275,Netflix,41,5,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0276,HBO Max,32,5,1,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0277,Netflix,34,5,5,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0278,Prime Video,28,4,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0279,Netflix,15,1,2,3,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C0280,Prime Video,30,1,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0281,HBO Max,37,4,5,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0282,HBO Max,29,3,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0283,Prime Video,22,2,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0284,Disney+,4,1,1,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0285,Prime Video,20,2,1,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0286,Disney+,32,4,4,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0287,Netflix,36,3,4,3,Básico com anúncios,True,5.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0288,Netflix,4,3,3,5,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0289,Netflix,27,3,3,1,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0290,HBO Max,17,4,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0291,Netflix,12,5,2,2,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0292,Disney+,22,5,3,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0293,Netflix,17,2,4,3,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0294,Prime Video,10,5,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0295,Prime Video,1,5,1,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0296,HBO Max,22,3,2,5,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0297,Prime Video,26,3,5,2,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0298,Disney+,18,2,1,1,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0299,Netflix,14,1,1,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0300,HBO Max,47,2,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0301,Netflix,29,2,5,4,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0302,Netflix,12,4,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0303,Disney+,36,4,5,2,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0304,Prime Video,35,2,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0305,Prime Video,12,2,1,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0306,Netflix,7,2,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0307,HBO Max,29,5,4,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0308,Prime Video,11,4,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0309,HBO Max,33,2,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0310,Prime Video,6,3,3,2,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0311,HBO Max,47,3,4,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0312,Disney+,15,5,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0313,HBO Max,32,5,4,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0314,Disney+,11,1,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0315,Disney+,23,1,4,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0316,HBO Max,26,1,1,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0317,Disney+,34,5,4,1,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0318,Netflix,46,5,3,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0319,Disney+,34,5,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0320,Prime Video,29,3,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0321,HBO Max,4,5,5,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0322,Netflix,17,3,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0323,HBO Max,35,1,5,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0324,Prime Video,13,1,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0325,Prime Video,41,1,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0326,Prime Video,39,2,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0327,Disney+,15,2,4,2,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0328,Disney+,29,4,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0329,HBO Max,29,4,5,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C0330,HBO Max,11,4,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0331,Netflix,32,2,3,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0332,Netflix,2,2,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0333,HBO Max,47,4,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0334,Disney+,14,4,2,1,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0335,Prime Video,20,5,2,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C0336,HBO Max,22,4,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0337,Netflix,11,5,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0338,Disney+,27,3,3,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0339,HBO Max,3,2,5,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0340,HBO Max,17,4,4,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0341,Disney+,44,2,1,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0342,HBO Max,28,2,4,5,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0343,Disney+,29,2,3,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0344,Prime Video,21,3,3,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0345,Disney+,47,1,4,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0346,Disney+,16,4,3,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0347,Disney+,37,1,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0348,HBO Max,20,1,2,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0349,HBO Max,6,1,3,4,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C0350,Disney+,19,2,3,5,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C0351,HBO Max,5,5,2,3,Básico com anúncios,True,4.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0352,Netflix,3,2,3,2,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0353,Netflix,1,2,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0354,HBO Max,38,1,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0355,HBO Max,15,2,1,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0356,Disney+,34,1,2,2,Básico com anúncios,True,5.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0357,Prime Video,35,5,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0358,HBO Max,25,4,1,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C0359,Netflix,24,1,3,4,Básico com anúncios,True,4.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0360,Disney+,12,5,3,1,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0361,HBO Max,18,4,4,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0362,Netflix,15,3,3,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0363,Netflix,44,1,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0364,Prime Video,16,1,4,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C0365,Disney+,27,3,1,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0366,Disney+,8,3,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0367,Prime Video,46,1,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0368,Prime Video,25,3,4,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0369,Disney+,17,2,3,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0370,Disney+,29,4,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0371,HBO Max,8,4,5,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0372,HBO Max,15,4,5,2,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0373,Prime Video,27,2,5,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0374,HBO Max,46,3,1,5,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C0375,Netflix,7,5,5,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0376,HBO Max,3,3,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0377,HBO Max,29,1,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0378,Netflix,44,4,1,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0379,Prime Video,24,3,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0380,Netflix,3,5,4,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0381,HBO Max,20,1,3,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0382,Prime Video,46,2,1,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0383,HBO Max,15,2,2,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0384,Netflix,25,5,3,5,Básico com anúncios,True,2.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0385,Netflix,30,1,4,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0386,HBO Max,14,4,1,2,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0387,Disney+,7,3,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0388,Disney+,17,1,2,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0389,Netflix,44,2,4,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C0390,Netflix,20,5,3,4,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0391,Disney+,36,5,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0392,Disney+,9,3,2,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0393,HBO Max,38,5,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0394,HBO Max,48,5,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0395,Disney+,22,1,3,1,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0396,HBO Max,2,4,1,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0397,HBO Max,24,3,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0398,Prime Video,8,1,3,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0399,HBO Max,11,4,4,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0400,Netflix,13,1,1,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0401,HBO Max,17,1,3,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0402,HBO Max,8,5,4,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0403,Disney+,21,4,5,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0404,Netflix,18,3,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0405,HBO Max,30,3,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0406,HBO Max,18,4,3,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0407,Prime Video,46,5,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0408,HBO Max,47,2,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0409,HBO Max,31,1,5,3,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C0410,Prime Video,38,5,4,5,Básico com anúncios,True,5.0,Não,Cancelado,Preço alto,Não se aplica
+C0411,Disney+,32,4,2,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0412,HBO Max,11,1,1,2,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0413,Prime Video,45,3,2,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0414,Netflix,25,2,1,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0415,Disney+,33,3,2,3,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C0416,Netflix,38,4,1,4,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0417,Netflix,41,1,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0418,Prime Video,8,4,2,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0419,HBO Max,11,1,2,5,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0420,Prime Video,22,5,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0421,Prime Video,24,2,5,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0422,Prime Video,41,5,2,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0423,Prime Video,17,5,3,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0424,Disney+,12,4,4,3,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0425,HBO Max,46,2,1,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0426,Netflix,32,1,1,2,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0427,Netflix,15,1,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0428,HBO Max,16,3,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0429,Netflix,22,1,4,4,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0430,HBO Max,28,4,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0431,Netflix,20,5,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0432,Prime Video,33,5,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0433,Netflix,10,5,4,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0434,HBO Max,40,2,3,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0435,HBO Max,32,1,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0436,HBO Max,33,4,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0437,HBO Max,2,2,1,4,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0438,HBO Max,33,3,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0439,Disney+,33,4,1,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0440,Disney+,41,4,5,4,Básico com anúncios,True,5.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0441,Netflix,13,4,3,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0442,HBO Max,30,5,5,5,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0443,Netflix,33,4,3,1,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0444,HBO Max,13,1,4,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C0445,HBO Max,26,4,2,5,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0446,Disney+,22,5,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0447,Disney+,39,4,3,4,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0448,Prime Video,2,3,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0449,Disney+,38,3,3,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0450,Prime Video,39,5,1,1,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0451,Prime Video,26,1,2,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0452,Prime Video,46,1,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0453,Prime Video,15,2,4,2,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0454,Prime Video,34,5,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0455,Netflix,42,4,3,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0456,Disney+,44,5,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0457,Prime Video,40,2,3,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0458,HBO Max,11,5,4,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0459,Disney+,3,5,5,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0460,Disney+,6,2,1,1,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C0461,Prime Video,9,1,2,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0462,Netflix,6,4,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0463,Prime Video,9,2,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0464,Netflix,39,3,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0465,HBO Max,31,1,2,2,Básico com anúncios,True,3.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0466,Disney+,32,3,4,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0467,HBO Max,41,1,4,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0468,Netflix,12,4,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0469,Netflix,8,4,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0470,HBO Max,8,5,2,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0471,Netflix,28,3,5,5,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C0472,HBO Max,20,1,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0473,Disney+,47,4,1,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0474,HBO Max,7,2,2,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0475,Disney+,11,4,2,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0476,HBO Max,20,2,2,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C0477,Netflix,16,1,5,2,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0478,HBO Max,4,4,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0479,Netflix,6,4,3,5,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C0480,HBO Max,22,1,5,5,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0481,HBO Max,26,4,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0482,Prime Video,3,2,5,2,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C0483,Netflix,41,4,1,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0484,Prime Video,42,3,2,3,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0485,Netflix,14,5,1,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0486,Prime Video,11,2,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0487,Disney+,18,3,5,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0488,HBO Max,12,1,4,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0489,Netflix,23,2,3,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0490,Netflix,12,5,1,2,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0491,HBO Max,13,5,5,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0492,Netflix,25,1,4,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0493,Netflix,45,1,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0494,Prime Video,19,2,1,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0495,Netflix,46,4,3,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0496,Disney+,36,1,5,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0497,Disney+,45,4,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0498,HBO Max,8,3,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0499,Netflix,29,5,5,3,Básico com anúncios,True,4.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0500,HBO Max,32,4,4,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0501,Disney+,44,5,2,2,Básico com anúncios,True,4.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0502,Netflix,18,4,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0503,Netflix,6,3,3,4,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0504,HBO Max,18,1,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0505,Disney+,19,3,4,5,Básico com anúncios,True,1.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0506,Netflix,22,1,5,3,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0507,HBO Max,37,1,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0508,Disney+,32,5,1,1,Básico com anúncios,True,4.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0509,HBO Max,41,3,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0510,Prime Video,3,4,3,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C0511,Netflix,28,3,2,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0512,Prime Video,10,5,3,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0513,Disney+,35,1,4,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0514,Prime Video,29,5,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0515,Prime Video,15,2,2,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0516,Disney+,33,2,4,4,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0517,HBO Max,7,4,1,5,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0518,Prime Video,12,5,2,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0519,HBO Max,30,4,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0520,Prime Video,21,4,2,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0521,HBO Max,31,2,4,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0522,Disney+,24,4,2,3,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0523,Prime Video,20,2,1,4,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0524,Disney+,37,1,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0525,Prime Video,4,5,5,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0526,Disney+,28,4,3,5,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0527,Disney+,44,2,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0528,Prime Video,20,3,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0529,Prime Video,24,4,3,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0530,Prime Video,32,1,1,1,Básico com anúncios,True,3.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0531,Netflix,41,1,1,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0532,HBO Max,36,3,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0533,Netflix,34,2,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0534,Netflix,36,4,5,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0535,Disney+,2,2,5,2,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0536,Prime Video,15,1,2,2,Básico com anúncios,True,2.0,Não,Cancelado,Preço alto,Não se aplica
+C0537,HBO Max,34,2,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0538,Disney+,36,1,3,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0539,Netflix,6,2,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0540,Prime Video,39,3,3,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0541,Disney+,42,5,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0542,Prime Video,12,3,5,1,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0543,Disney+,3,3,3,1,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C0544,Prime Video,45,5,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0545,Netflix,18,5,3,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0546,HBO Max,40,4,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0547,Netflix,21,4,4,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0548,HBO Max,15,3,5,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0549,Prime Video,33,3,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0550,Disney+,35,1,4,1,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0551,Netflix,26,1,5,1,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Preço acessível
+C0552,HBO Max,8,4,5,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0553,Netflix,36,4,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0554,HBO Max,48,1,3,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0555,Netflix,30,1,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0556,HBO Max,23,2,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0557,HBO Max,42,2,4,4,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0558,Prime Video,44,1,3,4,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0559,HBO Max,14,2,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0560,Prime Video,14,5,3,1,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0561,HBO Max,2,4,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0562,Disney+,37,4,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0563,Disney+,5,1,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0564,Disney+,38,3,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0565,HBO Max,45,1,4,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C0566,Prime Video,41,2,5,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0567,Prime Video,47,3,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0568,HBO Max,14,2,1,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0569,Disney+,39,5,2,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0570,Disney+,25,2,1,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0571,Prime Video,20,5,1,3,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0572,Disney+,2,5,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0573,Netflix,39,2,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0574,Prime Video,6,2,1,3,Básico com anúncios,True,1.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0575,Disney+,17,5,2,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0576,Prime Video,25,3,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0577,Netflix,28,5,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0578,Prime Video,2,4,1,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0579,Prime Video,35,5,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0580,Prime Video,37,3,4,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0581,Prime Video,5,4,1,4,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0582,Netflix,1,1,1,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0583,HBO Max,40,1,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0584,Prime Video,12,3,2,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0585,Prime Video,36,5,1,1,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0586,Disney+,45,2,4,3,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0587,Prime Video,23,3,1,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0588,Disney+,47,4,3,2,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0589,HBO Max,31,4,5,5,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0590,Netflix,11,1,3,5,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0591,Netflix,10,4,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0592,HBO Max,3,3,2,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0593,Netflix,14,4,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0594,HBO Max,16,3,3,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0595,HBO Max,10,2,4,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0596,HBO Max,29,1,2,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0597,Netflix,10,4,3,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0598,Disney+,12,3,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0599,HBO Max,30,5,1,4,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C0600,Prime Video,41,1,4,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0601,Netflix,1,2,3,1,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0602,HBO Max,5,3,3,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0603,HBO Max,20,2,1,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0604,Prime Video,8,2,4,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0605,Disney+,43,4,4,1,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C0606,Disney+,12,4,1,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0607,Disney+,1,3,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0608,HBO Max,20,5,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0609,HBO Max,28,3,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0610,HBO Max,43,5,3,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0611,Netflix,37,2,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0612,Prime Video,47,1,5,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0613,HBO Max,37,3,5,3,Básico com anúncios,True,3.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0614,Prime Video,12,3,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0615,Prime Video,37,5,1,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0616,Disney+,44,2,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0617,Netflix,28,2,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0618,HBO Max,47,5,2,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0619,Disney+,15,2,2,4,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0620,Disney+,6,4,2,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0621,HBO Max,44,1,5,2,Básico com anúncios,True,5.0,Não,Cancelado,Preço alto,Não se aplica
+C0622,Prime Video,20,3,2,5,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0623,Disney+,14,1,4,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0624,Prime Video,2,3,5,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0625,Netflix,9,4,2,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0626,Prime Video,37,2,1,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Preço acessível
+C0627,Netflix,20,5,3,4,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0628,Prime Video,26,4,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0629,Disney+,29,1,3,1,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C0630,Disney+,1,5,5,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0631,Netflix,35,2,2,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0632,HBO Max,6,4,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0633,Netflix,37,5,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0634,Netflix,5,4,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0635,Prime Video,33,4,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0636,Prime Video,14,2,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0637,Netflix,12,3,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0638,Disney+,42,5,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0639,Prime Video,20,2,2,1,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0640,HBO Max,24,4,4,4,Básico com anúncios,True,3.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0641,Prime Video,43,2,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0642,Prime Video,34,3,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0643,HBO Max,25,5,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0644,Netflix,29,3,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0645,HBO Max,39,1,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0646,Netflix,31,5,3,3,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0647,Netflix,47,3,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0648,Netflix,43,4,3,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0649,HBO Max,23,5,4,1,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0650,Netflix,44,5,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0651,Disney+,38,2,1,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0652,HBO Max,20,4,5,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0653,Disney+,23,1,2,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0654,Netflix,45,3,3,1,Básico com anúncios,True,3.0,Sim,Cancelado,Preço alto,Não se aplica
+C0655,Prime Video,16,2,2,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0656,Netflix,42,3,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0657,Disney+,8,1,5,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0658,Disney+,21,1,4,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0659,HBO Max,1,5,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0660,Prime Video,8,1,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0661,HBO Max,29,3,4,2,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0662,Disney+,32,4,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0663,Netflix,38,4,4,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0664,Prime Video,5,5,5,5,Básico com anúncios,True,2.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0665,Netflix,47,3,2,1,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0666,Netflix,22,3,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0667,Prime Video,47,1,1,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0668,HBO Max,34,3,1,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0669,Netflix,1,2,1,1,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0670,Disney+,26,1,3,1,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0671,Netflix,43,2,3,3,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0672,Prime Video,10,5,3,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0673,Prime Video,30,4,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0674,Prime Video,18,5,3,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C0675,HBO Max,17,4,2,4,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C0676,Netflix,26,5,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0677,HBO Max,8,3,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0678,HBO Max,47,2,1,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0679,Prime Video,40,4,3,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0680,Prime Video,12,1,5,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0681,HBO Max,27,2,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0682,Netflix,8,1,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0683,Disney+,25,2,3,1,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C0684,HBO Max,46,2,3,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C0685,Netflix,4,5,2,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0686,Prime Video,33,4,2,3,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0687,Prime Video,1,4,4,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0688,Netflix,19,2,3,3,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0689,Disney+,31,3,3,5,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0690,Prime Video,16,3,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0691,Prime Video,14,1,5,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0692,Prime Video,48,1,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0693,Netflix,5,5,1,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0694,HBO Max,41,2,5,2,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0695,Prime Video,26,1,2,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0696,HBO Max,28,1,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0697,Disney+,2,2,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0698,Prime Video,6,5,1,3,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0699,Prime Video,9,1,4,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0700,Disney+,33,5,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0701,Prime Video,41,4,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0702,HBO Max,25,5,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0703,Netflix,48,3,1,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0704,HBO Max,13,3,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0705,Netflix,9,5,1,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0706,Netflix,13,3,2,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0707,HBO Max,31,4,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0708,HBO Max,41,2,2,5,Básico com anúncios,True,2.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0709,HBO Max,11,3,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0710,HBO Max,4,3,1,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0711,Disney+,34,5,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0712,Prime Video,38,4,1,1,Básico com anúncios,True,1.0,Sim,Cancelado,Preço alto,Não se aplica
+C0713,Netflix,46,2,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0714,HBO Max,4,5,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0715,HBO Max,38,5,3,4,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0716,HBO Max,19,4,2,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0717,Disney+,6,2,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0718,HBO Max,34,4,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0719,HBO Max,18,2,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0720,HBO Max,13,4,1,5,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0721,Prime Video,41,5,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0722,Disney+,23,5,2,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0723,HBO Max,19,1,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0724,Netflix,45,3,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0725,Netflix,11,4,5,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0726,Netflix,1,1,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0727,Disney+,24,3,3,5,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0728,Disney+,7,4,1,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0729,Netflix,25,2,4,5,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0730,HBO Max,21,3,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0731,Disney+,15,5,5,1,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0732,Netflix,1,1,1,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0733,Netflix,12,3,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0734,HBO Max,7,3,3,3,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0735,Prime Video,15,5,2,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0736,Disney+,21,4,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0737,HBO Max,19,2,2,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0738,Netflix,29,5,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0739,Netflix,25,2,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0740,HBO Max,33,4,3,5,Básico com anúncios,True,1.0,Sim,Cancelado,Preço alto,Não se aplica
+C0741,Disney+,32,3,1,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0742,Prime Video,35,2,3,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0743,Prime Video,44,1,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0744,Netflix,38,1,1,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0745,Disney+,26,5,2,2,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C0746,Prime Video,11,4,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0747,Disney+,35,5,1,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0748,Disney+,8,5,2,2,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0749,Netflix,46,5,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0750,Prime Video,14,1,2,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0751,HBO Max,10,1,2,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0752,Netflix,2,5,1,4,Básico com anúncios,True,4.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0753,Prime Video,46,1,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0754,Prime Video,9,4,5,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0755,Prime Video,3,5,5,5,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0756,Prime Video,21,1,2,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0757,Prime Video,26,2,1,3,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0758,Disney+,8,5,3,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C0759,Netflix,48,5,2,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0760,Disney+,2,4,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0761,HBO Max,6,3,1,4,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0762,Prime Video,28,3,4,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0763,Netflix,29,4,2,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0764,Prime Video,26,4,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0765,Netflix,25,4,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0766,Disney+,12,3,5,5,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0767,Netflix,5,4,1,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0768,HBO Max,34,1,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0769,HBO Max,48,5,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0770,Netflix,37,5,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0771,Netflix,15,2,1,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0772,Netflix,44,2,2,2,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0773,Netflix,36,5,4,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0774,HBO Max,15,1,1,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0775,Prime Video,43,3,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0776,Netflix,48,3,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0777,Netflix,23,1,4,3,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0778,HBO Max,6,3,5,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0779,HBO Max,46,4,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0780,Disney+,44,5,4,3,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0781,Netflix,43,5,2,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0782,Disney+,45,1,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0783,HBO Max,21,3,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0784,HBO Max,23,2,5,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0785,Prime Video,43,2,4,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0786,Netflix,16,3,2,5,Básico com anúncios,True,2.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0787,Disney+,47,2,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0788,HBO Max,15,1,2,2,Básico com anúncios,True,2.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0789,HBO Max,25,1,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0790,Disney+,36,3,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0791,Prime Video,11,2,3,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0792,HBO Max,15,1,1,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0793,Netflix,4,1,5,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0794,HBO Max,21,4,3,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0795,Netflix,13,4,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0796,Disney+,22,1,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0797,Netflix,19,3,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0798,Disney+,34,5,2,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0799,Netflix,14,5,5,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C0800,Disney+,4,1,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0801,Netflix,48,1,5,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0802,Prime Video,46,1,4,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0803,Netflix,27,3,5,3,Básico com anúncios,True,3.0,Sim,Cancelado,Preço alto,Não se aplica
+C0804,Netflix,29,4,2,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0805,Prime Video,47,1,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0806,HBO Max,28,1,1,4,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0807,HBO Max,35,2,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0808,Netflix,8,3,2,4,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C0809,Prime Video,16,1,4,2,Básico com anúncios,True,3.0,Sim,Cancelado,Preço alto,Não se aplica
+C0810,Netflix,42,2,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0811,Disney+,36,5,5,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C0812,Disney+,30,1,2,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0813,Netflix,18,1,3,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0814,HBO Max,2,2,5,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0815,HBO Max,13,3,1,1,Básico com anúncios,True,3.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0816,Netflix,4,1,2,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0817,Netflix,26,5,4,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0818,Disney+,25,1,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0819,HBO Max,30,5,1,5,Básico com anúncios,True,3.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0820,Netflix,11,4,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0821,Disney+,7,4,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0822,HBO Max,31,5,1,1,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C0823,Prime Video,44,3,5,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0824,Disney+,10,1,2,1,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0825,HBO Max,39,1,4,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0826,HBO Max,13,4,2,3,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0827,Disney+,31,5,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0828,Prime Video,7,1,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0829,Disney+,42,1,3,4,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C0830,HBO Max,42,3,2,4,Básico com anúncios,True,1.0,Sim,Cancelado,Preço alto,Não se aplica
+C0831,Netflix,36,2,3,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0832,Netflix,20,4,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0833,Disney+,4,4,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0834,HBO Max,7,2,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0835,Netflix,1,1,3,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0836,HBO Max,44,3,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0837,Disney+,45,3,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0838,Netflix,42,4,1,4,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C0839,HBO Max,47,3,4,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0840,Netflix,13,2,1,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0841,Disney+,22,1,4,3,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C0842,HBO Max,21,2,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0843,Netflix,22,5,1,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0844,Disney+,28,4,3,2,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C0845,Netflix,9,3,4,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0846,Netflix,26,5,3,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0847,Prime Video,9,3,1,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0848,Prime Video,15,1,1,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0849,Disney+,10,1,3,4,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0850,Prime Video,24,1,2,1,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0851,Disney+,42,3,4,3,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0852,Prime Video,8,5,4,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0853,Netflix,24,1,3,4,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0854,Disney+,16,5,2,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0855,Disney+,26,3,1,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0856,Netflix,27,5,5,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0857,Disney+,37,3,5,2,Básico com anúncios,True,3.0,Sim,Cancelado,Preço alto,Não se aplica
+C0858,Disney+,4,3,3,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C0859,Prime Video,24,4,2,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0860,Disney+,19,3,2,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0861,HBO Max,36,3,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0862,Netflix,39,2,1,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0863,Prime Video,10,1,2,3,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0864,Prime Video,25,4,5,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0865,HBO Max,18,4,1,2,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0866,Netflix,19,4,1,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0867,Netflix,36,2,3,2,Básico com anúncios,True,3.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0868,Prime Video,10,3,2,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0869,Disney+,33,1,3,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0870,Prime Video,5,5,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0871,Netflix,47,3,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0872,HBO Max,35,2,3,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0873,Prime Video,44,3,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0874,Netflix,34,3,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0875,Prime Video,33,2,3,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0876,Disney+,21,4,2,2,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0877,Prime Video,17,4,5,2,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0878,Prime Video,22,1,3,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0879,Netflix,48,1,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0880,Netflix,37,4,4,2,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0881,Netflix,15,5,3,4,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0882,Prime Video,35,3,1,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0883,Disney+,28,5,5,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0884,HBO Max,7,3,1,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0885,HBO Max,32,4,5,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C0886,Netflix,11,1,4,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0887,Netflix,10,1,3,2,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C0888,Prime Video,9,5,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0889,HBO Max,14,1,3,1,Básico com anúncios,True,3.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0890,Netflix,13,4,5,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0891,Disney+,25,5,3,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0892,Disney+,2,3,1,3,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0893,Netflix,35,1,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0894,Netflix,7,2,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0895,HBO Max,21,1,1,2,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0896,HBO Max,18,3,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0897,Prime Video,3,5,3,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0898,HBO Max,42,3,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0899,Disney+,39,2,5,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C0900,Disney+,41,4,1,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0901,Netflix,11,1,2,5,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0902,HBO Max,39,5,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0903,Prime Video,24,4,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0904,Disney+,46,3,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0905,Disney+,19,5,3,2,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0906,Prime Video,4,4,1,1,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0907,Prime Video,26,5,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0908,Disney+,38,2,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0909,Disney+,42,2,3,1,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0910,Prime Video,32,1,4,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0911,Disney+,39,1,3,2,Básico com anúncios,True,2.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0912,Netflix,45,2,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0913,Netflix,46,5,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0914,Prime Video,36,2,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0915,HBO Max,40,1,1,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0916,Prime Video,37,2,4,3,Básico com anúncios,True,5.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0917,Prime Video,33,2,4,3,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0918,HBO Max,36,5,2,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0919,HBO Max,3,4,2,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0920,HBO Max,9,1,2,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0921,Netflix,8,5,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0922,Disney+,33,2,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0923,Netflix,6,2,4,5,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0924,Disney+,41,4,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0925,Netflix,39,1,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0926,Disney+,4,1,1,2,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0927,Netflix,13,3,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0928,HBO Max,2,1,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0929,Prime Video,5,4,4,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0930,Netflix,44,3,1,1,Básico com anúncios,True,5.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0931,Disney+,27,3,5,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0932,HBO Max,32,2,1,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0933,Netflix,21,2,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0934,Netflix,8,1,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0935,HBO Max,38,3,1,3,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C0936,Netflix,8,2,5,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C0937,Prime Video,3,4,2,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0938,Netflix,44,2,2,5,Básico com anúncios,True,5.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0939,Prime Video,3,2,5,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0940,Prime Video,22,3,5,2,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0941,HBO Max,6,3,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0942,Netflix,2,5,3,2,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C0943,HBO Max,23,4,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0944,Netflix,44,3,1,1,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0945,Netflix,2,1,5,2,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C0946,Disney+,38,4,1,2,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0947,Netflix,17,4,5,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0948,HBO Max,35,3,4,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0949,Prime Video,34,4,5,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0950,Netflix,23,3,5,1,Básico com anúncios,True,5.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0951,Disney+,30,2,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0952,HBO Max,8,5,3,5,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C0953,Netflix,22,2,5,3,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C0954,HBO Max,44,3,2,3,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0955,Disney+,36,3,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0956,Disney+,5,2,1,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0957,HBO Max,13,1,3,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0958,Netflix,29,1,1,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0959,Prime Video,31,1,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0960,Disney+,47,3,2,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C0961,Netflix,16,4,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0962,Netflix,42,3,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0963,Prime Video,30,4,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0964,Disney+,16,2,1,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0965,Disney+,12,5,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0966,Netflix,17,4,5,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0967,Netflix,16,1,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0968,Prime Video,12,3,4,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C0969,Prime Video,8,2,3,2,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0970,Disney+,20,1,1,1,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0971,HBO Max,3,2,5,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0972,Disney+,16,5,1,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C0973,Netflix,30,3,5,2,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C0974,Disney+,45,3,2,3,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0975,HBO Max,23,5,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0976,Prime Video,28,3,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0977,HBO Max,40,4,1,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0978,HBO Max,5,2,3,5,Básico com anúncios,True,5.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C0979,HBO Max,20,1,4,3,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C0980,Prime Video,40,5,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0981,HBO Max,44,4,5,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0982,HBO Max,1,1,3,4,Básico com anúncios,True,3.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0983,HBO Max,30,1,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C0984,Netflix,21,5,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C0985,HBO Max,20,4,1,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0986,Prime Video,6,1,1,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0987,HBO Max,22,1,1,1,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0988,HBO Max,18,4,4,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C0989,Prime Video,8,3,4,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C0990,HBO Max,39,1,5,1,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C0991,Prime Video,32,2,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0992,HBO Max,33,4,3,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C0993,Prime Video,16,1,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0994,HBO Max,12,5,3,2,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C0995,HBO Max,38,2,1,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C0996,Netflix,34,1,4,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C0997,Netflix,14,2,2,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C0998,HBO Max,36,2,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C0999,HBO Max,33,3,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1000,Disney+,23,2,4,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1001,Prime Video,45,3,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1002,Disney+,2,4,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1003,Netflix,41,3,2,1,Básico com anúncios,True,5.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1004,Netflix,21,5,1,2,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1005,Netflix,2,1,5,1,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1006,Netflix,27,4,2,1,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1007,HBO Max,9,4,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1008,Netflix,1,5,1,3,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C1009,HBO Max,11,3,5,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1010,HBO Max,3,1,3,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1011,Netflix,23,3,5,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1012,Netflix,26,2,2,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1013,Prime Video,4,3,1,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1014,Disney+,18,4,2,1,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1015,Netflix,6,1,3,1,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1016,Prime Video,35,3,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1017,Prime Video,22,1,2,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1018,Disney+,43,1,2,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1019,HBO Max,15,2,4,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1020,Netflix,22,2,3,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1021,Disney+,37,4,2,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1022,Netflix,42,5,2,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C1023,Prime Video,12,1,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1024,Prime Video,47,5,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1025,HBO Max,42,4,4,5,Básico com anúncios,True,1.0,Sim,Cancelado,Preço alto,Não se aplica
+C1026,Prime Video,38,1,1,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1027,Prime Video,18,1,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1028,Disney+,45,5,2,4,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1029,Netflix,35,3,3,4,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C1030,Netflix,30,2,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1031,Disney+,24,3,5,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1032,HBO Max,42,5,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1033,Netflix,30,2,1,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1034,Prime Video,14,3,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1035,Netflix,6,2,4,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1036,Prime Video,3,1,2,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1037,HBO Max,16,3,3,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C1038,Disney+,7,2,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1039,Netflix,14,2,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1040,Disney+,9,2,3,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1041,Netflix,15,3,1,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1042,Prime Video,21,4,1,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1043,Disney+,35,3,1,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1044,Netflix,2,5,3,5,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1045,Prime Video,27,3,1,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1046,Disney+,2,2,4,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1047,Disney+,35,1,3,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1048,Netflix,18,3,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1049,Netflix,14,3,3,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1050,Netflix,20,2,4,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1051,Prime Video,18,1,5,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C1052,Netflix,10,1,3,2,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1053,Disney+,25,5,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1054,Disney+,2,3,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1055,Netflix,25,1,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1056,Netflix,33,1,1,1,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1057,HBO Max,36,4,2,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1058,Disney+,31,4,2,2,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1059,Prime Video,14,1,1,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1060,HBO Max,1,5,1,5,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1061,Netflix,46,1,3,1,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C1062,Netflix,16,2,3,3,Básico com anúncios,True,5.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1063,Disney+,46,3,1,1,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C1064,Netflix,3,5,4,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1065,Prime Video,35,2,2,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1066,Disney+,41,5,3,5,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1067,Netflix,6,2,2,5,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1068,Disney+,25,3,5,2,Básico com anúncios,True,3.0,Sim,Cancelado,Preço alto,Não se aplica
+C1069,Netflix,13,3,1,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1070,Netflix,34,4,4,5,Básico com anúncios,True,3.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1071,Netflix,8,2,5,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1072,Prime Video,21,4,5,4,Básico com anúncios,True,2.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1073,Prime Video,34,2,5,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1074,Disney+,4,4,1,1,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1075,Netflix,25,3,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1076,Netflix,15,5,1,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1077,Prime Video,4,4,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1078,Netflix,45,2,5,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1079,Prime Video,12,2,5,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1080,Netflix,32,3,4,2,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C1081,Disney+,32,2,3,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1082,Netflix,28,1,5,4,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1083,Netflix,13,5,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1084,HBO Max,31,4,4,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1085,Prime Video,14,5,1,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1086,Netflix,20,3,4,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1087,Netflix,18,4,2,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1088,HBO Max,29,4,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1089,HBO Max,6,1,1,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1090,Prime Video,32,3,1,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1091,HBO Max,29,2,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1092,Disney+,43,1,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1093,HBO Max,2,1,5,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1094,Disney+,23,5,4,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1095,Prime Video,19,5,2,2,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C1096,Prime Video,31,5,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1097,Prime Video,5,1,4,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1098,Prime Video,19,2,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1099,Prime Video,34,4,2,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1100,Disney+,10,5,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1101,Disney+,25,2,2,1,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1102,Prime Video,2,3,5,4,Básico com anúncios,True,5.0,Não,Cancelado,Preço alto,Não se aplica
+C1103,HBO Max,11,5,1,2,Básico com anúncios,True,3.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1104,Netflix,31,4,5,4,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1105,Prime Video,15,3,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1106,HBO Max,9,3,1,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1107,Netflix,23,4,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1108,Prime Video,19,5,1,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1109,Prime Video,9,1,5,2,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C1110,Disney+,35,4,2,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C1111,Netflix,21,4,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1112,Netflix,9,4,2,2,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C1113,HBO Max,28,3,5,2,Básico com anúncios,True,4.0,Não,Cancelado,Preço alto,Não se aplica
+C1114,Disney+,46,2,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1115,Disney+,7,1,2,3,Básico com anúncios,True,3.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1116,Disney+,16,5,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1117,Disney+,16,5,4,3,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1118,Netflix,33,2,3,2,Básico com anúncios,True,3.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1119,Netflix,4,4,2,1,Básico com anúncios,True,5.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1120,Prime Video,4,1,1,5,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1121,Prime Video,39,5,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1122,Disney+,40,5,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1123,Disney+,17,4,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1124,Disney+,37,2,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1125,Prime Video,39,1,5,3,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1126,HBO Max,29,2,5,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1127,HBO Max,36,2,2,1,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C1128,Prime Video,38,1,2,4,Básico com anúncios,True,5.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1129,Prime Video,39,1,1,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1130,Prime Video,37,5,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1131,Prime Video,35,5,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1132,Prime Video,7,1,3,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1133,Prime Video,27,3,3,5,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1134,Disney+,28,5,5,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1135,Disney+,22,3,2,2,Básico com anúncios,True,2.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1136,Disney+,14,1,1,3,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1137,Disney+,7,5,1,5,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1138,Prime Video,37,2,1,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1139,HBO Max,22,1,3,4,Básico com anúncios,True,4.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1140,Netflix,5,4,2,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1141,Prime Video,2,3,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1142,Netflix,27,1,3,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1143,HBO Max,21,1,1,2,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1144,Disney+,38,5,1,3,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1145,HBO Max,15,5,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1146,Prime Video,21,5,4,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1147,Disney+,10,4,2,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1148,Prime Video,23,5,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1149,Disney+,39,1,2,2,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C1150,Netflix,5,5,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1151,Netflix,1,2,5,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1152,Netflix,13,5,4,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C1153,HBO Max,21,4,1,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1154,Prime Video,26,2,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1155,HBO Max,45,1,2,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1156,Netflix,21,1,3,4,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1157,Prime Video,18,3,2,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1158,Netflix,37,2,3,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1159,HBO Max,45,3,4,4,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C1160,HBO Max,32,2,1,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1161,HBO Max,36,2,3,1,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1162,Netflix,17,4,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1163,Prime Video,35,3,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1164,Prime Video,11,4,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1165,Netflix,21,2,2,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1166,Prime Video,26,1,2,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1167,Netflix,4,2,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1168,Prime Video,34,4,4,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1169,Disney+,48,3,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1170,Disney+,18,3,5,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1171,HBO Max,40,4,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1172,Disney+,35,3,4,1,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1173,Disney+,41,5,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1174,Disney+,29,1,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1175,Netflix,29,1,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1176,Disney+,38,1,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1177,Disney+,42,3,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1178,HBO Max,21,3,5,2,Básico com anúncios,True,2.0,Não,Cancelado,Preço alto,Não se aplica
+C1179,Disney+,42,2,3,4,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C1180,Disney+,13,2,5,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1181,Prime Video,41,1,1,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1182,HBO Max,17,5,5,4,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1183,HBO Max,9,2,1,5,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1184,HBO Max,41,2,1,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1185,HBO Max,1,3,5,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1186,HBO Max,2,5,1,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1187,HBO Max,48,1,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1188,Netflix,29,2,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1189,Disney+,33,5,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1190,HBO Max,10,5,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1191,Disney+,40,1,4,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1192,Disney+,21,5,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1193,Netflix,28,5,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1194,HBO Max,11,5,5,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1195,Prime Video,34,2,2,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1196,Netflix,8,1,2,5,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1197,Prime Video,22,5,3,2,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1198,Disney+,8,5,5,1,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1199,Disney+,15,2,5,1,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1200,Netflix,17,1,2,4,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1201,Netflix,23,3,5,5,Básico com anúncios,True,4.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1202,Prime Video,24,2,2,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1203,HBO Max,45,1,5,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1204,Prime Video,19,5,1,1,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1205,Netflix,5,1,2,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1206,Prime Video,32,1,2,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1207,Netflix,44,1,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1208,Prime Video,1,3,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1209,Netflix,23,1,5,2,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1210,Netflix,37,3,2,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C1211,Netflix,8,5,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1212,HBO Max,13,3,1,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1213,Prime Video,8,5,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1214,Prime Video,23,5,5,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1215,Prime Video,43,3,4,4,Básico com anúncios,True,1.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1216,Netflix,1,2,2,4,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1217,Prime Video,45,4,3,1,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1218,Prime Video,24,1,4,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1219,Netflix,35,4,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1220,Disney+,24,1,4,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1221,Netflix,17,1,1,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C1222,Prime Video,5,5,5,1,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1223,Netflix,20,1,3,4,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C1224,Disney+,21,1,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1225,Netflix,40,3,5,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1226,Prime Video,31,4,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1227,Disney+,46,3,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1228,HBO Max,36,1,4,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1229,Prime Video,11,5,2,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1230,Disney+,15,3,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1231,Disney+,19,3,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1232,HBO Max,7,2,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1233,Netflix,28,1,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1234,Netflix,43,5,1,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1235,Prime Video,5,3,2,2,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1236,HBO Max,5,3,5,5,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1237,Netflix,30,5,3,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1238,HBO Max,32,1,2,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1239,Netflix,8,2,1,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1240,Disney+,10,3,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1241,Netflix,38,2,3,4,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1242,HBO Max,47,4,1,4,Básico com anúncios,True,4.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1243,Disney+,32,1,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1244,Disney+,48,4,1,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1245,Disney+,28,4,4,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1246,HBO Max,17,4,1,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1247,Prime Video,31,1,3,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1248,Prime Video,8,1,3,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1249,Prime Video,40,5,1,5,Básico com anúncios,True,1.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1250,HBO Max,25,2,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1251,Disney+,9,2,3,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1252,Prime Video,2,5,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1253,HBO Max,15,5,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1254,Prime Video,3,4,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1255,Netflix,36,5,4,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1256,Prime Video,4,3,5,2,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C1257,Prime Video,14,2,1,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1258,Disney+,41,5,1,4,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1259,HBO Max,41,3,1,2,Básico com anúncios,True,4.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1260,Disney+,25,3,2,1,Básico com anúncios,True,2.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1261,Disney+,10,3,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1262,Disney+,21,3,5,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C1263,Disney+,36,4,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1264,Disney+,12,3,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1265,Prime Video,27,4,1,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1266,Disney+,40,4,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1267,Disney+,2,3,2,1,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C1268,HBO Max,13,2,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1269,Netflix,32,3,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1270,Prime Video,31,3,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1271,Prime Video,16,3,1,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1272,Prime Video,32,2,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1273,Disney+,32,1,4,3,Básico com anúncios,True,5.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1274,Disney+,34,1,3,1,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1275,Disney+,11,4,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1276,HBO Max,10,4,4,5,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1277,Netflix,15,2,5,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1278,Disney+,17,5,2,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1279,Netflix,40,1,3,1,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C1280,HBO Max,18,4,2,4,Básico com anúncios,True,3.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1281,Prime Video,9,1,4,3,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1282,Disney+,25,2,1,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1283,Netflix,40,2,4,1,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1284,Netflix,14,5,2,3,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1285,Disney+,25,5,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1286,Prime Video,22,2,1,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1287,Prime Video,30,4,5,4,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1288,Prime Video,20,1,2,5,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C1289,HBO Max,21,3,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1290,Netflix,44,5,2,5,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1291,Netflix,32,3,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1292,Netflix,46,4,4,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1293,HBO Max,21,5,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1294,Netflix,35,3,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1295,HBO Max,32,4,2,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1296,Prime Video,30,1,1,4,Básico com anúncios,True,2.0,Não,Cancelado,Preço alto,Não se aplica
+C1297,Disney+,39,4,5,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1298,Netflix,12,5,1,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1299,Netflix,41,2,4,5,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1300,Prime Video,47,1,2,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1301,Disney+,18,3,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1302,HBO Max,21,5,4,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1303,Disney+,13,2,3,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1304,Prime Video,21,4,3,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1305,Prime Video,8,2,4,1,Básico com anúncios,True,3.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1306,Disney+,46,5,2,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1307,HBO Max,40,5,4,1,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1308,HBO Max,46,2,3,5,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1309,Netflix,7,4,2,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1310,HBO Max,23,2,4,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1311,Disney+,44,5,5,4,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C1312,Prime Video,32,5,5,3,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1313,Netflix,11,3,4,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1314,Netflix,22,3,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1315,Prime Video,22,1,4,1,Básico com anúncios,True,1.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1316,HBO Max,43,5,4,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1317,Prime Video,25,3,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1318,HBO Max,22,2,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1319,Prime Video,28,4,3,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1320,Disney+,29,2,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1321,HBO Max,13,4,4,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C1322,Disney+,18,3,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1323,Netflix,2,1,5,1,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1324,Prime Video,29,2,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1325,Netflix,21,2,5,2,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1326,Netflix,15,2,3,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1327,Netflix,27,4,5,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1328,Netflix,31,3,3,1,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1329,Prime Video,15,2,3,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1330,Netflix,23,2,2,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1331,Prime Video,24,1,5,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1332,Prime Video,44,1,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1333,Disney+,13,3,5,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1334,HBO Max,22,3,1,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1335,HBO Max,43,5,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1336,Prime Video,37,1,5,5,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1337,Disney+,33,5,1,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1338,Prime Video,3,4,2,1,Básico com anúncios,True,3.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1339,Prime Video,19,5,5,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1340,Prime Video,23,2,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1341,Disney+,29,5,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1342,HBO Max,30,3,3,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1343,Disney+,39,4,2,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1344,Netflix,44,2,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1345,Disney+,47,5,3,1,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C1346,Disney+,25,4,2,2,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1347,Disney+,37,4,4,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1348,Disney+,47,2,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1349,HBO Max,8,5,2,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C1350,Netflix,42,4,1,4,Básico com anúncios,True,5.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1351,HBO Max,16,4,2,4,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1352,HBO Max,8,1,2,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1353,Disney+,1,4,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1354,Prime Video,44,1,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1355,Prime Video,5,5,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1356,HBO Max,3,5,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1357,HBO Max,1,5,1,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1358,Disney+,4,3,4,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1359,HBO Max,40,5,4,1,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1360,Disney+,35,4,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1361,Prime Video,32,2,5,1,Básico com anúncios,True,5.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1362,Prime Video,42,1,2,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1363,Netflix,34,3,2,5,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1364,Prime Video,43,5,5,2,Básico com anúncios,True,2.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1365,HBO Max,25,5,1,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1366,Prime Video,10,2,4,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1367,Disney+,21,2,2,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C1368,Prime Video,46,3,5,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1369,Netflix,39,1,3,1,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1370,Prime Video,27,5,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1371,Disney+,27,3,4,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1372,Disney+,2,4,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1373,HBO Max,41,4,2,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1374,Prime Video,48,3,2,3,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1375,Disney+,13,5,5,4,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1376,Netflix,9,3,3,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1377,HBO Max,36,5,3,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Preço acessível
+C1378,Netflix,22,2,1,3,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C1379,Prime Video,42,3,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1380,Prime Video,26,5,1,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1381,Prime Video,12,3,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1382,HBO Max,17,3,2,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1383,Disney+,14,5,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1384,HBO Max,14,5,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1385,Netflix,34,1,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1386,HBO Max,20,3,4,1,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1387,Netflix,11,4,2,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1388,HBO Max,16,3,5,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1389,Disney+,31,3,4,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1390,Netflix,6,5,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1391,Prime Video,19,3,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1392,Prime Video,37,3,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1393,HBO Max,4,4,4,3,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1394,Prime Video,47,5,5,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1395,Netflix,4,3,2,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1396,Prime Video,20,2,5,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1397,Disney+,10,1,5,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1398,Disney+,24,4,4,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1399,HBO Max,35,3,2,2,Básico com anúncios,True,5.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1400,Netflix,26,2,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1401,Disney+,37,3,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1402,Disney+,38,3,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1403,Netflix,21,5,2,2,Básico com anúncios,True,2.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1404,Prime Video,40,5,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1405,Prime Video,39,5,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1406,HBO Max,21,2,4,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1407,Prime Video,10,3,2,2,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1408,Netflix,38,1,2,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1409,Disney+,46,4,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1410,Prime Video,4,5,3,3,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1411,HBO Max,45,5,2,2,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C1412,Prime Video,20,3,3,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1413,Netflix,17,3,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1414,HBO Max,7,2,5,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1415,Prime Video,4,2,5,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1416,HBO Max,29,5,1,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1417,Netflix,14,3,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1418,Disney+,3,1,3,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1419,Netflix,24,4,2,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1420,Netflix,37,3,4,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1421,Netflix,16,3,1,4,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1422,Netflix,4,2,4,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1423,Disney+,24,4,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1424,Disney+,34,5,2,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Preço acessível
+C1425,HBO Max,30,3,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1426,Prime Video,18,5,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1427,Disney+,19,3,1,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1428,Disney+,31,5,4,1,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1429,Prime Video,19,4,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1430,Disney+,46,2,2,4,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1431,Netflix,19,4,2,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1432,Netflix,22,1,1,3,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1433,Prime Video,24,2,3,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1434,HBO Max,45,4,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1435,HBO Max,12,1,1,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1436,Prime Video,30,3,4,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1437,Prime Video,38,3,5,2,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1438,Netflix,31,5,1,1,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1439,HBO Max,36,2,5,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1440,Disney+,19,3,2,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1441,Netflix,48,2,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1442,Prime Video,45,3,1,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1443,HBO Max,36,5,5,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1444,Disney+,30,4,2,5,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1445,Disney+,33,5,4,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1446,Netflix,18,1,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1447,HBO Max,28,3,3,2,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1448,HBO Max,47,1,2,2,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1449,Prime Video,11,1,5,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1450,HBO Max,45,2,2,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1451,HBO Max,33,3,5,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1452,Netflix,17,1,4,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1453,HBO Max,6,4,5,4,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C1454,Disney+,4,1,2,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1455,Netflix,20,4,4,3,Básico com anúncios,True,5.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1456,Netflix,48,2,1,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1457,Prime Video,47,1,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1458,HBO Max,27,5,2,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1459,Prime Video,15,2,2,2,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1460,Disney+,6,4,2,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1461,Netflix,47,2,4,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1462,Netflix,14,1,1,1,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1463,Netflix,11,3,5,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1464,Disney+,39,3,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1465,Disney+,9,4,4,2,Básico com anúncios,True,5.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1466,Prime Video,26,4,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1467,Prime Video,16,3,3,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1468,Prime Video,5,4,2,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1469,HBO Max,10,2,5,3,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1470,Netflix,3,5,3,1,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C1471,Netflix,13,5,2,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1472,Prime Video,43,2,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1473,Netflix,30,5,1,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1474,Prime Video,45,1,4,1,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C1475,HBO Max,6,2,2,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1476,HBO Max,17,4,5,5,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1477,Disney+,45,2,1,3,Básico com anúncios,True,2.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1478,HBO Max,19,3,2,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1479,Prime Video,42,4,1,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1480,HBO Max,35,3,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1481,Disney+,46,4,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1482,Netflix,26,5,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1483,Prime Video,5,2,3,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1484,Netflix,29,1,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1485,Disney+,37,4,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1486,Disney+,20,4,2,2,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1487,Disney+,21,3,3,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1488,Netflix,10,5,2,1,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1489,Netflix,5,3,2,3,Básico com anúncios,True,5.0,Não,Cancelado,Preço alto,Não se aplica
+C1490,Netflix,36,3,4,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1491,Netflix,6,5,2,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1492,Disney+,26,1,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1493,Disney+,4,3,4,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1494,Prime Video,39,3,4,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1495,Prime Video,39,4,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1496,Netflix,35,5,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1497,HBO Max,1,2,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1498,HBO Max,24,1,4,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1499,Disney+,36,1,2,5,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1500,Disney+,6,5,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1501,Disney+,41,4,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1502,Prime Video,46,4,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1503,Prime Video,44,5,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1504,Disney+,31,4,4,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1505,Disney+,20,1,1,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1506,Disney+,24,1,5,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1507,HBO Max,25,2,5,1,Básico com anúncios,True,2.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1508,Prime Video,36,5,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1509,HBO Max,21,3,3,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1510,HBO Max,30,3,2,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C1511,Disney+,24,2,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1512,Disney+,44,2,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1513,Netflix,42,4,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1514,Netflix,30,2,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1515,HBO Max,22,2,2,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1516,Prime Video,28,3,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1517,Disney+,7,4,4,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1518,Disney+,35,2,3,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1519,HBO Max,28,2,4,1,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C1520,Netflix,14,4,5,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1521,Prime Video,10,5,1,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1522,Netflix,16,4,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1523,Netflix,16,3,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1524,Netflix,31,5,4,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1525,Netflix,42,1,2,1,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C1526,Disney+,25,4,5,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1527,Disney+,13,3,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1528,Netflix,6,5,5,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1529,Prime Video,44,4,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1530,HBO Max,9,2,5,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1531,Prime Video,45,4,5,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1532,Prime Video,36,1,1,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1533,Prime Video,43,4,3,3,Básico com anúncios,True,1.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1534,Netflix,20,5,5,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1535,Disney+,18,5,3,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1536,Prime Video,43,4,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1537,Netflix,21,5,4,2,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C1538,Prime Video,4,2,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1539,Prime Video,33,4,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1540,Netflix,27,2,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1541,Disney+,7,2,4,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1542,Disney+,6,3,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1543,HBO Max,15,4,2,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1544,Netflix,18,5,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1545,HBO Max,32,2,1,4,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1546,HBO Max,11,3,4,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1547,HBO Max,20,4,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1548,Disney+,24,4,4,1,Básico com anúncios,True,4.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1549,Netflix,15,1,5,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1550,HBO Max,48,1,4,4,Básico com anúncios,True,1.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1551,Netflix,7,2,4,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1552,Netflix,21,1,3,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1553,Disney+,42,2,5,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1554,HBO Max,26,5,2,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Preço acessível
+C1555,HBO Max,44,2,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1556,Netflix,14,1,5,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1557,Prime Video,37,5,2,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1558,Disney+,21,1,5,5,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1559,Disney+,18,2,2,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1560,Disney+,5,3,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1561,Disney+,3,4,2,5,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1562,HBO Max,23,1,4,4,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1563,HBO Max,26,2,5,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1564,Prime Video,37,5,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1565,Disney+,24,1,1,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1566,Disney+,19,1,5,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1567,Netflix,25,4,3,5,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1568,HBO Max,21,2,2,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1569,Disney+,12,3,3,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1570,Prime Video,41,5,1,2,Básico com anúncios,True,5.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1571,Prime Video,33,2,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1572,HBO Max,4,5,5,2,Básico com anúncios,True,4.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1573,Prime Video,42,1,3,1,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1574,Prime Video,7,4,3,5,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1575,HBO Max,22,4,2,1,Básico com anúncios,True,1.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1576,Disney+,33,3,4,4,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1577,Disney+,17,4,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1578,Prime Video,24,1,2,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1579,Prime Video,34,3,4,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1580,Disney+,28,2,1,2,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1581,HBO Max,43,4,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1582,Prime Video,41,3,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1583,Netflix,39,1,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1584,HBO Max,22,5,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1585,Prime Video,17,5,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1586,Prime Video,34,1,1,5,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1587,Netflix,6,1,5,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1588,Netflix,46,5,5,4,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1589,Disney+,6,3,2,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1590,HBO Max,34,5,3,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1591,HBO Max,1,1,3,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1592,Disney+,10,4,1,5,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1593,HBO Max,21,2,2,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1594,HBO Max,5,4,1,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1595,HBO Max,2,4,4,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1596,HBO Max,22,1,5,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1597,HBO Max,48,5,1,1,Básico com anúncios,True,2.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1598,Netflix,2,3,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1599,HBO Max,10,4,2,2,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1600,Netflix,34,5,4,5,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1601,HBO Max,16,3,2,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1602,Disney+,48,4,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1603,Prime Video,39,3,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1604,Netflix,22,5,5,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1605,HBO Max,12,2,2,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1606,Disney+,24,5,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1607,Prime Video,47,1,1,1,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1608,Netflix,40,3,2,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1609,Prime Video,38,2,1,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1610,Disney+,10,3,3,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1611,Netflix,35,3,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1612,Prime Video,32,4,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1613,HBO Max,7,1,2,2,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1614,Netflix,21,3,2,5,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1615,Prime Video,20,5,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1616,Disney+,26,5,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1617,Disney+,4,4,1,4,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1618,Netflix,46,1,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1619,Prime Video,22,1,1,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C1620,Netflix,15,5,4,5,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1621,Netflix,40,2,2,1,Básico com anúncios,True,3.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1622,Prime Video,21,4,1,4,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1623,Prime Video,15,4,3,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1624,HBO Max,22,5,3,2,Básico com anúncios,True,4.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1625,Prime Video,28,5,2,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1626,Disney+,14,2,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1627,Netflix,27,2,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1628,Netflix,41,1,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1629,Disney+,40,4,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1630,Prime Video,28,4,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1631,Disney+,26,5,3,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C1632,Disney+,2,1,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1633,HBO Max,25,4,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1634,Disney+,3,1,4,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1635,Netflix,8,1,3,2,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1636,Disney+,44,5,1,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1637,Netflix,33,1,2,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1638,Netflix,42,2,1,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1639,Netflix,35,2,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1640,Prime Video,6,3,4,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1641,HBO Max,39,5,1,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1642,Netflix,23,3,4,5,Básico com anúncios,True,3.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1643,Netflix,25,2,5,4,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1644,Prime Video,43,3,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1645,Netflix,19,5,4,5,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1646,Disney+,5,5,2,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C1647,Disney+,11,1,5,3,Básico com anúncios,True,2.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1648,HBO Max,12,4,4,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1649,Netflix,10,1,4,3,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1650,Prime Video,8,5,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1651,Disney+,24,2,5,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1652,Prime Video,28,2,1,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1653,Prime Video,41,1,2,4,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1654,Disney+,36,5,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1655,Prime Video,37,2,5,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1656,Disney+,21,5,3,1,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1657,Prime Video,8,2,5,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1658,Disney+,9,5,2,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1659,Netflix,47,3,4,2,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1660,HBO Max,15,5,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1661,Disney+,48,5,4,1,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1662,Disney+,46,1,4,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1663,HBO Max,40,3,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1664,Disney+,18,4,5,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1665,Disney+,42,1,4,5,Básico com anúncios,True,1.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1666,Prime Video,20,4,1,5,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C1667,HBO Max,6,2,4,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1668,Netflix,12,4,5,2,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1669,Disney+,2,5,4,1,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1670,HBO Max,7,4,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1671,Prime Video,16,1,2,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1672,Netflix,3,1,2,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1673,HBO Max,45,4,5,1,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C1674,Netflix,3,1,2,5,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1675,Netflix,27,1,2,3,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1676,Netflix,43,4,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1677,Disney+,40,3,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1678,Disney+,38,3,5,2,Básico com anúncios,True,4.0,Sim,Cancelado,Preço alto,Não se aplica
+C1679,Prime Video,33,2,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1680,Prime Video,28,1,2,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1681,HBO Max,1,4,2,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1682,Prime Video,8,1,3,2,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1683,Netflix,37,5,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1684,Netflix,32,1,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1685,Disney+,48,1,5,5,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Preço acessível
+C1686,Netflix,43,3,1,1,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1687,HBO Max,37,4,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1688,Netflix,4,1,1,2,Básico com anúncios,True,2.0,Não,Cancelado,Preço alto,Não se aplica
+C1689,Netflix,30,3,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1690,HBO Max,6,2,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1691,Prime Video,46,3,1,5,Básico com anúncios,True,2.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1692,Prime Video,19,3,1,3,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1693,HBO Max,32,3,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1694,Disney+,9,1,5,5,Básico com anúncios,True,2.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1695,Netflix,12,1,2,5,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C1696,HBO Max,11,2,1,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1697,Netflix,46,5,4,3,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1698,Disney+,16,5,5,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1699,Netflix,1,5,3,2,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1700,HBO Max,45,2,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1701,Netflix,21,5,4,4,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C1702,Prime Video,30,5,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1703,Disney+,13,3,1,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1704,Disney+,34,1,5,1,Básico com anúncios,True,2.0,Sim,Cancelado,Preço alto,Não se aplica
+C1705,Disney+,4,1,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1706,HBO Max,28,3,5,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1707,Disney+,38,3,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1708,Prime Video,31,3,1,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1709,HBO Max,27,1,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1710,Prime Video,5,5,2,3,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C1711,Netflix,25,3,4,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1712,Netflix,3,2,2,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C1713,Netflix,33,3,1,1,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1714,Netflix,4,4,1,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1715,Prime Video,25,3,2,2,Básico com anúncios,True,1.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1716,HBO Max,20,1,3,3,Básico com anúncios,True,5.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1717,HBO Max,34,3,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1718,Disney+,26,4,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1719,Prime Video,5,2,4,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1720,Netflix,35,5,4,5,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1721,Prime Video,28,3,1,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1722,Disney+,29,4,4,4,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1723,Disney+,9,4,5,2,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1724,Prime Video,38,2,5,1,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1725,Prime Video,6,1,2,2,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1726,Prime Video,19,3,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1727,HBO Max,44,4,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1728,Netflix,11,2,3,2,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1729,Prime Video,2,5,1,1,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C1730,Prime Video,47,4,1,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1731,Prime Video,44,2,5,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1732,Disney+,44,1,3,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1733,Disney+,9,1,2,3,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1734,HBO Max,21,4,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1735,Netflix,24,4,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1736,HBO Max,34,3,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1737,Netflix,22,2,3,4,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1738,Disney+,3,4,1,1,Básico com anúncios,True,4.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1739,Disney+,12,3,5,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1740,Disney+,28,3,5,1,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C1741,HBO Max,30,4,4,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1742,Prime Video,26,1,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1743,Prime Video,48,2,4,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1744,Disney+,21,2,5,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1745,Prime Video,28,1,2,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1746,Prime Video,26,4,5,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1747,HBO Max,33,2,3,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1748,Netflix,21,4,5,3,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1749,Disney+,35,4,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1750,Disney+,34,3,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1751,HBO Max,41,1,1,3,Básico com anúncios,True,3.0,Sim,Cancelado,Preço alto,Não se aplica
+C1752,HBO Max,47,4,1,4,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1753,Prime Video,18,5,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1754,Disney+,11,1,2,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1755,Netflix,23,2,3,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1756,HBO Max,48,3,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1757,Netflix,22,2,2,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1758,Netflix,17,2,2,4,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1759,Disney+,5,1,3,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1760,Disney+,44,2,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1761,HBO Max,11,4,1,5,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1762,Disney+,30,2,1,5,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1763,Disney+,15,3,3,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1764,Disney+,27,3,2,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1765,Netflix,35,5,4,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1766,HBO Max,33,3,3,1,Básico com anúncios,True,1.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1767,Prime Video,20,2,1,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1768,Netflix,16,3,5,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C1769,Disney+,34,1,2,2,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C1770,Netflix,2,3,5,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1771,Disney+,35,4,3,4,Básico com anúncios,True,3.0,Sim,Cancelado,Preço alto,Não se aplica
+C1772,Disney+,40,1,1,2,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1773,Netflix,28,5,4,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1774,HBO Max,47,4,5,3,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1775,Disney+,39,2,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1776,HBO Max,6,2,1,5,Básico com anúncios,True,2.0,Não,Cancelado,Preço alto,Não se aplica
+C1777,Prime Video,9,2,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1778,Disney+,20,4,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1779,HBO Max,1,4,4,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C1780,HBO Max,8,4,5,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1781,Prime Video,23,1,1,2,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1782,HBO Max,3,1,4,2,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1783,HBO Max,4,2,3,5,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1784,Prime Video,25,3,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1785,Disney+,47,2,2,1,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1786,HBO Max,38,5,2,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1787,HBO Max,15,1,1,5,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1788,HBO Max,21,4,3,4,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1789,Netflix,35,1,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1790,Prime Video,46,4,2,1,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C1791,Netflix,14,5,1,5,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1792,Prime Video,36,5,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1793,Disney+,12,1,3,2,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1794,Disney+,17,4,1,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1795,HBO Max,39,5,1,3,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1796,Prime Video,9,2,4,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1797,Disney+,35,2,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1798,Prime Video,13,4,4,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1799,Disney+,15,1,4,4,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1800,Netflix,18,5,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1801,Disney+,33,1,3,3,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1802,Netflix,6,2,3,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1803,Disney+,27,5,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1804,HBO Max,23,1,5,3,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1805,Netflix,27,3,4,1,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Preço acessível
+C1806,Disney+,34,4,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1807,HBO Max,46,4,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1808,Netflix,38,3,5,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1809,HBO Max,14,2,1,4,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1810,Prime Video,36,5,5,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1811,Prime Video,8,4,1,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1812,Netflix,35,3,2,1,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1813,Disney+,19,3,3,5,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1814,Netflix,30,2,3,4,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Preço acessível
+C1815,HBO Max,14,2,4,2,Premium,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1816,Disney+,20,1,2,1,Básico com anúncios,True,3.0,Não,Cancelado,Preço alto,Não se aplica
+C1817,Prime Video,25,4,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1818,Disney+,40,1,4,3,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C1819,Prime Video,24,3,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1820,Disney+,14,5,3,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1821,Disney+,26,5,1,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Preço acessível
+C1822,Disney+,38,2,5,1,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1823,HBO Max,23,5,2,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1824,HBO Max,22,5,4,2,Básico com anúncios,True,4.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1825,Netflix,48,5,2,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1826,Netflix,19,3,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1827,Prime Video,46,5,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1828,HBO Max,3,5,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1829,Prime Video,42,5,3,2,Básico com anúncios,True,2.0,Não,Cancelado,Preço alto,Não se aplica
+C1830,Netflix,19,1,1,1,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Preço acessível
+C1831,Prime Video,9,3,3,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1832,Netflix,28,2,1,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1833,HBO Max,20,1,3,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1834,Disney+,45,4,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1835,HBO Max,7,3,2,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1836,Prime Video,14,3,5,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1837,Prime Video,9,4,4,1,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1838,HBO Max,19,4,4,3,Básico com anúncios,True,5.0,Sim,Cancelado,Preço alto,Não se aplica
+C1839,HBO Max,47,4,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1840,Netflix,14,2,1,2,Básico com anúncios,True,3.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1841,Prime Video,38,5,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1842,Prime Video,36,3,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1843,HBO Max,40,5,2,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1844,Disney+,17,5,3,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1845,Prime Video,30,4,4,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1846,Disney+,9,2,5,1,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1847,HBO Max,33,1,4,3,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1848,HBO Max,25,2,1,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1849,Netflix,14,5,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1850,Prime Video,11,2,1,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1851,Disney+,35,4,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1852,Netflix,41,1,2,5,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1853,Prime Video,14,4,5,3,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1854,Netflix,30,1,4,1,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1855,HBO Max,41,5,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1856,Prime Video,4,1,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1857,Netflix,4,1,4,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1858,Netflix,28,1,4,4,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1859,Disney+,8,2,2,4,Básico com anúncios,True,4.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1860,Netflix,2,2,2,5,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1861,Prime Video,41,5,2,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1862,Prime Video,46,1,4,1,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1863,Disney+,22,3,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1864,Prime Video,41,5,1,1,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1865,HBO Max,16,1,4,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1866,Prime Video,29,1,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1867,Prime Video,48,2,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1868,Netflix,30,5,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1869,Netflix,12,1,3,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1870,Prime Video,35,1,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1871,Disney+,11,5,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1872,Netflix,46,3,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1873,Disney+,21,5,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1874,Prime Video,21,5,3,4,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1875,Prime Video,5,3,2,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1876,HBO Max,48,5,4,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1877,Netflix,20,1,2,1,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Preço acessível
+C1878,Prime Video,37,5,5,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1879,HBO Max,3,3,2,3,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1880,Netflix,44,4,3,1,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1881,Prime Video,33,5,3,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1882,Prime Video,9,2,2,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1883,Netflix,9,1,3,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1884,Netflix,4,1,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1885,Netflix,35,2,5,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1886,Prime Video,17,2,4,1,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1887,Prime Video,34,5,5,4,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1888,HBO Max,24,2,1,3,Básico com anúncios,True,2.0,Não,Cancelado,Preço alto,Não se aplica
+C1889,Disney+,32,4,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1890,Netflix,1,3,2,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1891,Prime Video,8,2,4,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1892,Prime Video,45,2,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1893,Netflix,23,4,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1894,Disney+,47,1,4,5,Básico com anúncios,True,4.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1895,Netflix,40,1,3,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1896,Disney+,12,5,5,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1897,Prime Video,12,4,2,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1898,Disney+,46,3,1,2,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1899,HBO Max,47,3,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1900,Prime Video,15,4,5,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1901,HBO Max,41,3,3,4,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1902,Netflix,19,1,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1903,Netflix,26,3,4,4,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1904,Netflix,29,3,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1905,Disney+,22,4,3,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1906,Prime Video,40,4,3,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1907,Netflix,21,3,4,1,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1908,Netflix,38,2,1,2,Básico com anúncios,True,3.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1909,Prime Video,20,4,5,1,Básico com anúncios,True,1.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1910,Netflix,29,5,3,3,Básico com anúncios,True,2.0,Sim,Ativo,Não se aplica,Uso compartilhado
+C1911,HBO Max,4,5,4,4,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1912,Prime Video,7,1,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1913,Prime Video,28,3,5,1,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1914,Prime Video,28,2,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1915,HBO Max,4,1,5,1,Básico com anúncios,True,1.0,Não,Ativo,Não se aplica,Preço acessível
+C1916,Prime Video,22,3,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1917,HBO Max,12,4,1,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1918,Prime Video,45,5,4,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1919,Disney+,3,2,1,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1920,Netflix,22,5,3,3,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Uso compartilhado
+C1921,Disney+,44,4,1,3,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1922,Netflix,2,3,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1923,HBO Max,24,4,2,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1924,Disney+,34,4,1,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1925,Prime Video,27,5,5,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1926,Netflix,41,2,4,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1927,Netflix,1,4,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1928,Disney+,8,5,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1929,HBO Max,23,2,4,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1930,Disney+,38,3,3,2,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1931,HBO Max,6,3,3,4,Básico com anúncios,True,2.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1932,HBO Max,22,1,2,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1933,Netflix,25,5,3,3,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1934,Disney+,18,2,3,2,Básico com anúncios,True,2.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1935,Disney+,17,4,3,2,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1936,HBO Max,12,3,4,3,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1937,Disney+,6,2,2,2,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1938,Prime Video,26,5,4,3,Básico com anúncios,True,5.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1939,Prime Video,27,1,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1940,Disney+,8,3,4,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1941,Disney+,19,2,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1942,HBO Max,42,2,1,5,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1943,Prime Video,1,2,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1944,Prime Video,29,5,5,5,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1945,Netflix,45,5,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1946,HBO Max,35,5,4,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Preço acessível
+C1947,Netflix,40,4,5,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1948,Prime Video,14,2,2,1,Básico com anúncios,True,3.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1949,HBO Max,35,3,1,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1950,Disney+,48,5,1,1,Básico com anúncios,True,1.0,Não,Cancelado,Preço alto,Não se aplica
+C1951,HBO Max,45,5,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1952,Disney+,20,2,3,5,Básico com anúncios,True,3.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1953,Disney+,13,5,3,4,Padrão,False,,Não se aplica,Cancelado,Pouco uso da plataforma,Não se aplica
+C1954,HBO Max,38,4,5,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1955,Disney+,46,4,2,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1956,Netflix,8,5,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1957,Prime Video,43,2,5,5,Básico com anúncios,True,3.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1958,Disney+,20,2,2,3,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1959,Netflix,33,2,2,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1960,Disney+,26,1,4,2,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1961,Prime Video,39,5,2,1,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1962,Netflix,21,2,3,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1963,Prime Video,42,4,3,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1964,Prime Video,43,3,5,1,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1965,Netflix,41,3,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1966,Netflix,9,2,2,4,Premium,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1967,Netflix,24,3,1,1,Premium,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1968,HBO Max,37,3,4,1,Básico com anúncios,True,1.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1969,Netflix,41,1,1,4,Básico com anúncios,True,2.0,Sim,Cancelado,Excesso de anúncios,Não se aplica
+C1970,Netflix,17,4,2,2,Básico com anúncios,True,5.0,Sim,Cancelado,Pouco uso da plataforma,Não se aplica
+C1971,Netflix,24,4,2,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Preço acessível
+C1972,Netflix,21,1,1,5,Padrão,False,,Não se aplica,Cancelado,Excesso de anúncios,Não se aplica
+C1973,Disney+,39,1,4,2,Premium,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1974,HBO Max,41,3,1,1,Básico com anúncios,True,3.0,Sim,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1975,Prime Video,39,5,5,4,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1976,Netflix,13,3,3,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1977,Disney+,11,1,5,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1978,Disney+,46,4,3,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1979,Disney+,19,3,2,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1980,Prime Video,11,5,4,2,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1981,Netflix,13,3,1,1,Básico com anúncios,True,4.0,Não,Cancelado,Pouco uso da plataforma,Não se aplica
+C1982,HBO Max,46,2,4,2,Básico com anúncios,True,1.0,Não,Cancelado,Excesso de anúncios,Não se aplica
+C1983,HBO Max,45,3,1,2,Básico com anúncios,True,5.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C1984,Disney+,1,1,5,5,Básico com anúncios,True,2.0,Não,Ativo,Não se aplica,Catálogo de conteúdo
+C1985,Prime Video,40,4,5,4,Premium,False,,Não se aplica,Ativo,Não se aplica,Tolerância aos anúncios
+C1986,Prime Video,44,4,1,5,Premium,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1987,Prime Video,19,1,4,3,Padrão,False,,Não se aplica,Ativo,Não se aplica,Preço acessível
+C1988,HBO Max,12,2,1,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Uso compartilhado
+C1989,Disney+,8,1,2,3,Básico com anúncios,True,1.0,Sim,Ativo,Não se aplica,Preço acessível
+C1990,Netflix,8,3,5,5,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1991,HBO Max,45,1,2,4,Premium,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1992,Disney+,12,1,5,5,Básico com anúncios,True,3.0,Sim,Ativo,Não se aplica,Catálogo de conteúdo
+C1993,Disney+,48,2,5,4,Básico com anúncios,True,4.0,Sim,Ativo,Não se aplica,Tolerância aos anúncios
+C1994,Netflix,33,3,3,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1995,Netflix,45,5,2,1,Padrão,False,,Não se aplica,Cancelado,Preço alto,Não se aplica
+C1996,Netflix,26,5,2,2,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1997,Prime Video,39,4,3,5,Padrão,False,,Não se aplica,Ativo,Não se aplica,Catálogo de conteúdo
+C1998,Netflix,28,1,4,4,Padrão,False,,Não se aplica,Cancelado,Insatisfação com o catálogo,Não se aplica
+C1999,Disney+,5,4,2,5,Básico com anúncios,True,4.0,Não,Ativo,Não se aplica,Tolerância aos anúncios
+C2000,Netflix,8,2,1,5,Básico com anúncios,True,1.0,Não,Cancelado,Insatisfação com o catálogo,Não se aplica
