@@ -58,6 +58,30 @@ A diferença observada foi de 3,49 pontos percentuais. Esse resultado descreve a
 
 Foram criados gráficos para explorar as taxas de cancelamento de acordo com os níveis de satisfação declarados nos dados simulados.
 
+### 4. Motivos de cancelamento e retenção
+
+Foram analisadas as frequências de categorias ilustrativas de cancelamento e retenção na base simulada.
+
+#### Motivos de cancelamento
+
+- Preço alto: 240 registros.
+- Pouco uso da plataforma: 217 registros.
+- Excesso de anúncios: 213 registros.
+- Insatisfação com o catálogo: 208 registros.
+
+#### Motivos de retenção
+
+- Catálogo de conteúdo: 301 registros.
+- Uso compartilhado: 285 registros.
+- Tolerância aos anúncios: 276 registros.
+- Preço acessível: 260 registros.
+
+#### Limitação da análise
+
+Os motivos foram atribuídos artificialmente durante a geração da base. Portanto, essas frequências não representam respostas reais de clientes nem permitem concluir quais fatores efetivamente causam cancelamento ou retenção.
+
+Em um estudo com dados reais, essas categorias poderiam orientar investigações sobre preço, engajamento, publicidade e satisfação com o conteúdo.
+
 ## Estrutura do projeto
 
 ```text
@@ -68,6 +92,7 @@ streaming-churn-analysis/
 │   ├── taxa_cancelamento_anuncios.png
 │   └── analise_satisfacao.png
 ├── notebooks/
+│   └── analise_churn_retencao.ipynb
 ├── gerar_dados.py
 ├── gerar_graficos.py
 ├── analisar_cancelamentos.py
@@ -94,35 +119,12 @@ Os comandos pressupõem que as dependências estejam instaladas no ambiente Pyth
 
 ## Próximos passos
 
-- Investigar a tolerância aos anúncios.
-- Analisar motivos ilustrativos de cancelamento e retenção.
-- Criar indicadores adicionais.
-- Melhorar a documentação e publicar o projeto no GitHub.
+- Investigar com mais detalhes a tolerância aos anúncios.
+- Criar indicadores adicionais e comparar diferentes segmentos de clientes.
+- Aprimorar as visualizações e a documentação conforme a evolução do projeto.
+- Explorar novas perguntas de negócio utilizando a base simulada.
 
 ## Autoria
 
 Projeto acadêmico e de portfólio desenvolvido durante meus estudos em Análise e Desenvolvimento de Sistemas.
 
-## 4. Motivos de cancelamento e retenção
-
-Foram analisadas as frequências de categorias ilustrativas de cancelamento e retenção na base simulada.
-
-### Motivos de cancelamento
-
-- Preço alto: 240 registros.
-- Pouco uso da plataforma: 217 registros.
-- Excesso de anúncios: 213 registros.
-- Insatisfação com o catálogo: 208 registros.
-
-### Motivos de retenção
-
-- Catálogo de conteúdo: 301 registros.
-- Uso compartilhado: 285 registros.
-- Tolerância aos anúncios: 276 registros.
-- Preço acessível: 260 registros.
-
-### Limitação da análise
-
-Os motivos foram atribuídos artificialmente durante a geração da base. Portanto, essas frequências não representam respostas reais de clientes nem permitem concluir quais fatores efetivamente causam cancelamento ou retenção.
-
-Em um estudo com dados reais, essas categorias poderiam orientar investigações sobre preço, engajamento, publicidade e satisfação com o conteúdo.
